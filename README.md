@@ -1,7 +1,6 @@
 # Application Management in Python
 ## Application Management made using Tkinter and MySQL in Python
-### Requirements
-	Modules
+### Modules Required
 	-> MySQL
 	-> Pillow
 	-> PyGame
